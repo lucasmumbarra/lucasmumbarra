@@ -8,6 +8,6 @@
 ##
 
 <ul>
-  <li>💻 Dev front-end a caminho para full-stack</li>
-  <li>Cursando Sistemas de Informação na FMU</li>
+  <li>💻 A caminho para ser Dev Front-end Jr.</li>
+  <li>Cursando Sistemas de Informação na FMU.</li>
 </ul>
