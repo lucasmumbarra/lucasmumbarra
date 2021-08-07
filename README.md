@@ -11,3 +11,6 @@
   <li>💻 A caminho para ser Dev Front-end Jr.</li>
   <li>Cursando Sistemas de Informação na FMU.</li>
 </ul>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmumbarra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
