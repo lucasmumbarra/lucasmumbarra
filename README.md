@@ -13,4 +13,4 @@
 </ul>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmumbarra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmumbarra&layout=compact@&bg_color=110e1b&title_color=F50CB7&text_color=f1f1f1&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
