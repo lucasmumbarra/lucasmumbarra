@@ -22,11 +22,11 @@ Trabalhei de forma voluntária como desenvolvedor para a Igreja Evangélica Asse
 ---
 ### :computer: Repositórios Principais:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=adbcajamar&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=aulasviolino&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=adbcajamar&show_icons=true&theme=dracula)](https://github.com/lucasmumbarra/adbcajamar) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=aulasviolino&show_icons=true&theme=dracula)](https://github.com/lucasmumbarra/aulasviolino)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=nlw5&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=genesisGame&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=nlw5&show_icons=true&theme=dracula)](https://github.com/lucasmumbarra/nlw5) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=genesisGame&show_icons=true&theme=dracula)](https://github.com/lucasmumbarra/genesisGame)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=jogo-da-velha&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=responsivo-flexbox&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=jogo-da-velha&show_icons=true&theme=dracula)](https://github.com/lucasmumbarra/jogo-da-velha) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=responsivo-flexbox&show_icons=true&theme=dracula)](https://github.com/lucasmumbarra/responsivo-flexbox)
 ---
 
 ### :rocket: Hard Skills:
