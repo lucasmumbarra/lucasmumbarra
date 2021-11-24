@@ -14,7 +14,20 @@
 
 Trabalhei de forma voluntária como desenvolvedor para a Igreja Evangélica Assembleia de Deus Ministério do Belém em Cajamar no desenvolvimento do site, e no sistema de cadastro utilizado pela secretaria da igreja, e o sistema de catalogação e arquivo utilizado pela a orquestra.
 
-------
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmumbarra&show_icons=true&theme=dracula)
+](https://github.com/anuraghazra/github-readme-stats)
+
+---
+### :computer: Repositórios Principais:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=adbcajamar&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=aulasviolino&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=nlw5&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=genesisGame&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=jogo-da-velha&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=responsivo-flexbox&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 ### :rocket: Hard Skills:
 
