@@ -2,7 +2,7 @@
 
 ------
 
-<h2 align="center">Desenvolvedor Fullstack Jr.</h2>
+<h2 align="center">Desenvolvedor Fullstack</h2>
 
 <div align="center">
     <a href="https://br.linkedin.com/in/lucasmumbarra" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.instagram.com/lucas_mumbarra/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://www.facebook.com/lumumbarra" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a> <a href="mailto:lucassantosm.2014@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="mailto:lucassantosm.2014@hotmail.com" target="blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a> <a href="https://wa.me/+5511945671190" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
