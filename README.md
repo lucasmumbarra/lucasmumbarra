@@ -52,15 +52,6 @@ I work as a back-end developer and as a QA, I have experience with front-end usi
 
 <a href="https://github.com/lucasmumbarra" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmumbarra&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/lucasmumbarra/dashgo" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=dashgo&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/lucasmumbarra/spacetraveling" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=spacetraveling&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/lucasmumbarra/ignews" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=ignews&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/lucasmumbarra/refactoringClassesTs" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=refactoringClassesTs&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/lucasmumbarra"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
