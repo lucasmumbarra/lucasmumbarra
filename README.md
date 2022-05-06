@@ -1,52 +1,65 @@
-<h1 align="center">Hello 👋🏾! Nice to meet you here.</h1>
+Hi 👋 My name is Lucas Mumbarra
+===============================
 
----
+Developer Fullstack Jr and QA
+-----------------------------
 
-<h2 align="center">Full Stack Developer</h2>
+I work as a back-end developer and as a QA, I have experience with front-end using React. I'm studying JAVA to program backend, I really like to challenge myself and accept any challenge proposed to me.
 
-<div align="center">
-    <a href="https://br.linkedin.com/in/lucasmumbarra" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.instagram.com/lucas.mumbarra/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://www.facebook.com/lumumbarra" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a> <a href="mailto:lucassantosm.2014@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="mailto:lucassantosm.2014@hotmail.com" target="blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a> <a href="https://wa.me/+5511945671190" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-</div>
+* 🌍  I'm based in São Paulo, Brazil
+* 🖥️  See my portfolio at [Lucas Mumbarra](http://https://socialtree.netlify.app/)
+* ✉️  You can contact me at [lucassantosm.2014@gmail.com](mailto:lucassantosm.2014@gmail.com)
+* 🧠  I'm learning Spring Boot
+* 🤝  I'm open to collaborating on Backend projects
+* ⚡  I really enjoy programming listening to music and helping other people
 
----
+### Skills
 
-### :man_technologist: Experience:
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" width="36" height="36" alt="After Effects" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
-I worked voluntarily as a developer for the Igreja Evangélica Assembly of God Ministério do Belém in Cajamar in the development of the site. During my studies at Rocketseat, I created some projects for the challenges launched, using HTML5, CSS3 and JavaScript. I'm studying JavaScript, ReactJS and NodeJS at Rocketseat and Systems Analysis and Development at UNIP.
 
----
+### Socials
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmumbarra&show_icons=true&theme=dracula)
-](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <a href="https://www.dev.to/lucasmumbarra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/lucasmumbarra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/lumumbarra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/lucasmumbarra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/lucasmumbarra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lucasmumbarra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
----
+### Badges
 
-### :computer: Main Repositories:
+<b>My GitHub Stats</b>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=myPortfolio&show_icons=true&theme=dracula)](https://github.com/lucasmumbarra/myPortfolio) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=violinLessons&show_icons=true&theme=dracula)](https://github.com/lucasmumbarra/violinLessons)
+<a href="http://www.github.com/lucasmumbarra"><img src="https://github-readme-stats.vercel.app/api?username=lucasmumbarra&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="lucasmumbarra's GitHub stats" /></a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=socialTree&show_icons=true&theme=dracula)](https://github.com/lucasmumbarra/socialTree) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=adb35&show_icons=true&theme=dracula)](https://github.com/lucasmumbarra/adb35)
+<a href="http://www.github.com/lucasmumbarra"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmumbarra&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-## [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=genesisGame&show_icons=true&theme=dracula)](https://github.com/lucasmumbarra/genesisGame) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=hashGame&show_icons=true&theme=dracula)](https://github.com/lucasmumbarra/hashGame)
+<a href="http://www.github.com/lucasmumbarra"><img src="https://activity-graph.herokuapp.com/graph?username=lucasmumbarra&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-### :rocket: Hard Skills:
+<a href="https://github.com/lucasmumbarra" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmumbarra&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-#### **Programming language**
+<b>Top Repositories</b>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+<div width="100%" align="center"><a href="https://github.com/lucasmumbarra/dashgo" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=dashgo&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/lucasmumbarra/spacetraveling" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=spacetraveling&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-#### **Frameworks, Platforms and Libraries**:
+<br /><br /><br /><br /><br />
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<div width="100%" align="center"><a href="https://github.com/lucasmumbarra/ignews" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=ignews&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/lucasmumbarra/refactoringClassesTs" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasmumbarra&repo=refactoringClassesTs&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-#### **Version control:**
+### Support Me
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-#### **Package Managers:**
-
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-
-#### **IDEs:**
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+<a href="https://www.buymeacoffee.com/lucasmumbarra"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
