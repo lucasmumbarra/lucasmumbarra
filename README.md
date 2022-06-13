@@ -1,13 +1,9 @@
 Hi 👋 My name is Lucas Mumbarra
 ===============================
 
-Developer Fullstack Jr and QA
------------------------------
-
 I work as a back-end developer and as a QA, I have experience with front-end using React. I'm studying JAVA to program backend, I really like to challenge myself and accept any challenge proposed to me.
 
 * 🌍  I'm based in São Paulo, Brazil
-* 🖥️  See my portfolio at [Lucas Mumbarra](http://https://socialtree.netlify.app/)
 * ✉️  You can contact me at [lucassantosm.2014@gmail.com](mailto:lucassantosm.2014@gmail.com)
 * 🧠  I'm learning Spring Boot
 * 🤝  I'm open to collaborating on Backend projects
