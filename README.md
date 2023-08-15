@@ -3,7 +3,7 @@
 Hi 👋 I'm Lucas Mumbarra
 ===============================
 
-I’m a Fullstack developer. I have back-end experience with Java using Spring Boot and front-end using Angular.
+I’m a Fullstack Software Developer. I work with Java, Spring boot, data, security, Maven, HTML5, CSS3, Angular 5/6, NPM, NVM, NodeJS, Typescript, Javascript and SASS. I have knowledge with some structuring, such as DDD, MVC, Rest, Microservices and Microfrontends, I have knowledge with some tools, such as Git, Azure DevOps, Trello, Jira and Docker. I have knowledge some databases, such as SQL Server, MySQL, Postgre, MongoDB, and I have knowledge in some methodologies, such as Scrum and Kanban.
 
 * 🌍 I live in São Paulo, Brazil.
 
