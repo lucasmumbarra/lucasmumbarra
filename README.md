@@ -40,12 +40,6 @@ Tenho perfil mão na massa, gosto de estruturar sistemas do zero, definir padrõ
 <img align="left" alt="Vite" title="Vite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" />
 <br/><br/>
 
-#### UI / Styling
-<img align="left" alt="PrimeReact" title="PrimeReact" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/35153407?s=200&v=4" />
-<img align="left" alt="PrimeNG" title="PrimeNG" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/35153407?s=200&v=4" />
-<img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<br/><br/>
-
 #### Databases
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
@@ -63,11 +57,4 @@ Tenho perfil mão na massa, gosto de estruturar sistemas do zero, definir padrõ
 <img align="left" alt="Prometheus" title="Prometheus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />
 <br/><br/>
 
-### 📊 Estatísticas
-
-<p> <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=lucasmumbarra&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-
-<img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmumbarra&theme=tokyonight&layout=compact&custom_title=Tecnologias" />
-
-</p>
 
