@@ -1,60 +1,88 @@
-# 👨🏻‍💻 Lucas Santos Mumbarra
+<h1 align="center">Olá, eu sou o Lucas Santos Mumbarra! 👋</h1>
 
-**`Software Engineer | Backend & Architecture Focus`**
+<h3 align="center">Mid Backend Developer | Software Engineer
 
-Sou desenvolvedor de software com forte atuação em backend, arquitetura limpa e sistemas distribuídos. Trabalho principalmente com Java (Spring Boot) e Node.js (NestJS), aplicando Clean Architecture, Hexagonal Architecture, DDD e boas práticas de engenharia.
-
-Atualmente desenvolvo e mantenho projetos próprios e acadêmicos de maior porte, incluindo plataformas multi-tenant, microserviços, gateways, sistemas de pagamento e observabilidade, sempre com foco em qualidade, escalabilidade e manutenibilidade.
-
-Tenho perfil mão na massa, gosto de estruturar sistemas do zero, definir padrões, documentar decisões técnicas e garantir cobertura de testes e rastreabilidade ponta a ponta.
-
-<p align="left"> <a href="https://github.com/lucasmumbarra?tab=repositories&sort=stargazers"> <img alt="Total de estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/lucasmumbarra?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /> </a> <a href="https://github.com/lucasmumbarra?tab=followers"> <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/lucasmumbarra?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a> </p>
+<p align="center">
+  <a href="mailto:lucassantosm.2021@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lucasmumbarra" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/lucasmumbarra" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
+
+## 👨🏻‍💻 Sobre Mim
+
+Sou desenvolvedor de software com forte atuação em backend, focado em sistemas de alta disponibilidade e ambientes financeiros críticos. Trabalho principalmente com **Java (Spring Boot)** e **Node.js (NestJS)**, aplicando *Microsserviços*, *Arquitetura Hexagonal*, *DDD* e boas práticas de engenharia.
+
+- 🔭 Atualmente atuo no alinhamento, planejamento e desenvolvimento de soluções técnicas para serviços de antecipação de recebíveis.
+- 🌱 Estou cursando **Pós-graduação em Arquitetura e Desenvolvimento em JAVA** pela FIAP (após me formar em Análise e Desenvolvimento de Sistemas pela UNIP).
+- 🏗️ Possuo vivência na sustentação, resolução de incidentes em produção e melhoria contínua dos processos.
+- 🎯 Foco na entrega de valor ao negócio por meio da qualidade de código e implementação de forte cultura de observabilidade.
+
+<br/>
+
+<p align="left"> 
+  <a href="https://github.com/lucasmumbarra?tab=repositories&sort=stargazers"> 
+    <img alt="Total de estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/lucasmumbarra?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /> 
+  </a> 
+  <a href="https://github.com/lucasmumbarra?tab=followers"> 
+    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/lucasmumbarra?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> 
+  </a> 
+</p>
+
+---
+
 ## 🧠 Áreas de Atuação
-- Backend Engineering
-- Clean / Hexagonal Architecture
-- Domain-Driven Design (DDD)
-- Microservices & API Gateway
-- Integrações de pagamento
-- Autenticação e autorização (OAuth2, JWT)
-- Observabilidade (Logs, Metrics, Tracing)
-- Testes unitários e qualidade de código
+
+- **Backend Engineering & Sistemas Distribuídos**
+- **Arquitetura de Software:** Clean / Hexagonal Architecture, Domain-Driven Design (DDD), MVC
+- **Sistemas Financeiros:** Antecipação de recebíveis e alta disponibilidade
+- **Observabilidade:** Grafana, Prometheus, Splunk
+- **Metodologias & Ferramentas:** Metodologias Ágeis (Scrum, Kanban), Jira, Docker, Git
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
-#### Backend
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="NestJS" title="NestJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-<br/><br/>
+### ☕ Backend
+![Static Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.JS](https://img.shields.io/badge/Node.JS-6DB33F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E51000?style=for-the-badge&logo=nestjs&logoColor=white)
 
-#### Frontend
-<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="React" title="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Angular" title="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-<img align="left" alt="Vite" title="Vite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" />
-<br/><br/>
+### 🗄️ Bancos de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-FD6612?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### Databases
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<br/><br/>
+### 🖥️ Frontend (Microfrontends)
+![TypeScript](https://img.shields.io/badge/TypeScript-4479A1?style=for-the-badge&logo=TypeScript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-C90076?style=for-the-badge&logo=Angular&logoColor=white)
+![React](https://img.shields.io/badge/React-49a9f0?style=for-the-badge&logo=React&logoColor=white)
 
-#### DevOps & Infra
-<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="GitHub Actions" title="GitHub Actions" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
-<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<br/><br/>
+### ⚙️ DevOps & Observabilidade
+![Docker](https://img.shields.io/badge/Docker-4479A1?style=for-the-badge&logo=Docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F43700?style=for-the-badge&logo=Grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-F43700?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-49a9f0?style=for-the-badge&logo=Splunk&logoColor=white)
 
-#### Observability
-<img align="left" alt="Grafana" title="Grafana" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
-<img align="left" alt="Prometheus" title="Prometheus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />
-<br/><br/>
+---
 
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasmumbarra&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasmumbarra&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lucasmumbarra&theme=tokyonight&hide_border=true"/>
+</p>
