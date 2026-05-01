@@ -1,7 +1,8 @@
 <h1 align="center">Olá, eu sou o Lucas Santos Mumbarra! 👋</h1>
 
 <h3 align="center">Mid Backend Developer | Software Engineer
-
+<br/>
+<br/>
 <p align="center">
   <a href="mailto:lucassantosm.2021@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
