@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BACKEND_ENGINEER-C9A227?style=for-the-badge&labelColor=1A120B" alt="Software Engineer"/>
-  <img src="https://img.shields.io/badge/BACKEND_ENGINEER-C9A227?style=for-the-badge&labelColor=1A120B" alt="Mid-level Backend Developer"/>
+  <img src="https://img.shields.io/badge/Software_Engineer-C9A227?style=for-the-badge&labelColor=1A120B" alt="Software Engineer"/>
+  <img src="https://img.shields.io/badge/Mid--Level_Backend_Developer-C9A227?style=for-the-badge&labelColor=1A120B" alt="Mid-level Backend Developer"/>
   <img src="https://img.shields.io/badge/SISTEMAS_FINANCEIROS-C9A227?style=for-the-badge&labelColor=1A120B" alt="Sistemas Financeiros"/>
   <img src="https://img.shields.io/badge/ARQUITETURA_DE_SOFTWARE-C9A227?style=for-the-badge&labelColor=1A120B" alt="Arquitetura de Software"/>
 </p>
